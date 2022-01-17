@@ -1,10 +1,9 @@
 console.log('Testing Address');
-var ethers = require('ethers')
 var crypto = require('crypto')
 
 const addresses = []
 for(let i = 0; i< 5; i++){
-    var id = crypto.randomBytes(32).toString('hex');
+    var id = crypto.randomBytes(20).toString('hex');
     var testAddress = "0x"+id
     addresses.push(testAddress)
 }
