@@ -1,0 +1,19 @@
+{
+  "name": "ethaddress",
+  "version": "1.0.0",
+  "description": "code for eth test addresses",
+  "main": "address",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erin90/TestingAddress.git"
+  },
+  "author": "Erin Yabut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erin90/TestingAddress/issues"
+  },
+  "homepage": "https://github.com/erin90/TestingAddress#readme"
+}
